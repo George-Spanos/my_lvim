@@ -1,0 +1,8 @@
+require("user.extra-plugins")
+require("user.keymaps")
+require("user.null-ls")
+require("user.nvimtree")
+require("user.options")
+require("user.theme")
+require("user.treesitter")
+require("user.lsp")
